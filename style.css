@@ -1,0 +1,40 @@
+
+
+
+li {
+    color:gray;
+}
+
+body { 
+    background-color: black;
+}
+
+header {color: white; 
+}
+
+li { height: 30px;
+}
+
+li { 
+    font-style:italic;
+}
+
+ol {
+    list-style: none;
+}
+
+span { 
+    color:white;
+}
+
+li {
+    font-size: 2em;
+}
+ 
+li { 
+    margin: 1cm;
+}
+
+
+header { margin-left: 2.2cm;
+}
